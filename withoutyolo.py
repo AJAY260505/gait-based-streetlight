@@ -162,7 +162,7 @@ while True:
             if is_panic_run_detected(walking_speed):
                 light_mode = "Panic/Evacuation"
                 cue = "Flash Red, Notify Control!"
-                display_warnings.append("ALERT: Possible crowd panic/run")
+                display_warnings.append("")
                 mode_color = (0, 0, 255)
         if accessibility_mode:
             assist_mode = True
@@ -195,7 +195,7 @@ while True:
         light_mode += " + Night Dimming"
         cue += " (Auto dim/bright)"
     if sound > 95:
-        display_warnings.append("NOISE SPIKE: Possible event/accident")
+        display_warnings.append("")
 
     city_data_log.append({
         'timestamp': time.time(),

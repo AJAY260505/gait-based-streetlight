@@ -1,25 +1,9 @@
-# Core AI & Computer Vision
-ultralytics==8.1.27
-opencv-python==4.9.0.80
-numpy==1.26.4
-
-# Data Analysis & Logging
-pandas==2.2.2
-
-# Hardware Communication (Serial for ESP32, optional)
-pyserial==3.5
-
-# For system-level performance boosts and cross-platform use
-tqdm==4.66.4
-
-# For possible MQTT networking (future IoT scaling/fleet control)
-paho-mqtt==2.0.0
-
-# (Optional) Edge TPU support, if used with Pi/Coral
-# edgetpu==2.15.0
-
-# If you use MediaPipe separately for pose (optional, most use YOLO)
-# mediapipe==0.10.9
-
-# For Jupyter experiments (optional)
-# jupyter
+ultralytics
+opencv-python
+numpy
+pandas
+pyserial
+tqdm
+paho-mqtt
+mediapipe
+dotenv

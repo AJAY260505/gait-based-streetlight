@@ -1,112 +1,148 @@
 # Gait-Based Streetlight Controller: AI & IoT Powered Smart Lighting
 
-Welcome to the **Gait-Based Streetlight Controller**! This is an innovative AI-driven, context-aware smart streetlight system that leverages real-time human gait analysis for adaptive, energy-efficient, and safer urban lighting.
+Welcome to the **Gait-Based Streetlight Controller**!
+An innovative **AI-driven, context-aware smart streetlight system** that leverages **real-time human gait analysis** for adaptive, energy-efficient, and safer urban lighting.
+
+---
 
 ## 💡 Overview
 
-Traditional motion-sensor streetlights only detect movement, not *how* people move. Our project implements an advanced computer vision system that:
-- **Analyzes walking patterns, speed, and unsteadiness**
-- **Adapts the intensity, color, and behavior of streetlights** in real-time for every scenario (single pedestrians, groups, people with mobility issues, etc.)
-- **Runs on edge devices** (Raspberry Pi + ESP32 + AI Accelerators) for privacy and low latency
-- **Enhances both energy efficiency and public safety**—especially for vulnerable populations
+Traditional motion-sensor streetlights only detect movement, not *how* people move.
+This project goes beyond by implementing an advanced computer vision system that:
+
+* **Analyzes walking patterns, speed, and unsteadiness**
+* **Adapts the intensity, color, and behavior of streetlights** in real-time (single pedestrians, groups, people with mobility issues, etc.)
+* **Runs on edge devices** (Raspberry Pi + ESP32 + AI Accelerators) for privacy and low latency
+* **Enhances both energy efficiency and public safety**—especially for vulnerable populations
+
+---
 
 ## 🚀 Features
 
-- **Real-Time Gait Analysis:** Markerless pose estimation using models like YOLO/MediaPipe.
-- **Adaptive Lighting Control:** Streetlights respond differently to slow walkers, groups, or unsteady gait.
-- **Edge AI:** All processing is done on-device; no raw video leaves the unit.
-- **Data Privacy:** No personal identifiers or cloud video storage—designed privacy-first.
-- **IoT & Mesh Networking:** Multiple units communicate wirelessly to coordinate lighting for urban areas.
+* 🧍 **Real-Time Gait Analysis** – Markerless pose estimation using YOLO/MediaPipe
+* 🌈 **Adaptive Lighting Control** – Smart response to different walking styles
+* ⚡ **Edge AI** – On-device inference for low latency
+* 🔒 **Privacy by Design** – No raw video leaves the device
+* 🌐 **IoT & Mesh Networking** – Coordinated multi-streetlight operation
+
+---
 
 ## 🛠️ Hardware
 
-- **Raspberry Pi** (AI processing & orchestration)
-- **ESP32** (Local sensor and lighting control, PWM for LEDs)
-- **USB Camera / Pi Camera** (Real-time video feed)
-- **Edge TPU (Coral) [Optional]** (Accelerated on-device AI)
-- **RGB LED Streetlight Units**
-- **Sensors:** Ambient light, PIR/motion, others as needed
+* **Raspberry Pi** (AI processing & orchestration)
+* **ESP32** (Local control, PWM for LEDs)
+* **USB Camera / Pi Camera** (Real-time video feed)
+* **Google Coral Edge TPU \[Optional]** (Accelerated AI)
+* **RGB LED Streetlight Units**
+* **Sensors** – Ambient light, PIR/motion, others as needed
+
+---
 
 ## ⚙️ Software
 
-- **Python** for core logic (pose estimation, gait analytics, control signals)
-- **Ultralytics YOLO, MediaPipe Pose** for pose estimation
-- **NumPy**, **OpenCV** for image processing and visualization
-- **Pandas** for analytics logging
-- MQTT or custom lightweight protocol for IoT networking (future)
+* **Python** for control and analytics
+* **Ultralytics YOLO, MediaPipe Pose** – Pose estimation
+* **OpenCV, NumPy** – Vision & signal processing
+* **Pandas** – Logging and analysis
+* **MQTT / Lightweight IoT Protocols** – Networking (future)
+
+---
 
 ## 📦 Setup & Usage
 
 1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/AJAY260505/gait-based-streetlight.git
-    cd gait-based-streetlight
-    ```
+
+   ```bash
+   git clone https://github.com/AJAY260505/gait-based-streetlight.git
+   cd gait-based-streetlight
+   ```
 
 2. **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-3. **Prepare Model Weights**
-   - Download YOLO pose estimation weights (`yolov8n-pose.pt` or equivalent) and place them in the project folder.
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-4. **Connect your Camera and ESP32/LED**
-   - Ensure your camera is accessible and ESP32 is flashed to receive lighting instructions.
+3. **Download Model Weights**
+   Get YOLO pose estimation weights (e.g., `yolov8n-pose.pt`) and place them in the project folder.
+
+4. **Connect Camera & ESP32/LED**
+   Ensure your camera is connected and ESP32 is flashed to receive lighting instructions.
 
 5. **Run the System**
-    ```bash
-    python main.py
-    ```
+
+   ```bash
+   python main.py
+   ```
 
 6. **Visualize Gait Analysis**
-   - The system will display detected persons, gait classification ("SLOW", "FAST", "UNSTABLE"), and stream control signals to the lighting unit.
 
-7. **Extend/Customize**
-    - Tweak thresholds, add new hardware modules, or add user studies!
+   * System will display detected persons, gait classification (`SLOW`, `FAST`, `UNSTABLE`)
+   * Lighting control signals streamed to ESP32
+
+7. **Extend / Customize**
+
+   * Adjust thresholds
+   * Add new sensors/modules
+   * Conduct user studies
+
+---
 
 ## 📊 Project Structure
 
 ```
 gait-based-streetlight/
-├── main.py               # Main application for detection and control
-├── requirements.txt      # Python dependencies
+├── main.py                   # Main application for detection & control
+├── requirements.txt          # Python dependencies
 ├── multiperson_gait_log.csv  # Example output log
 └── [other scripts/notebooks]
 ```
 
+---
+
 ## 📝 Publications & Recognition
 
-This project is prepared for submission to:
-- **IEEE ISC2 (Smart Cities)**
-- **CVPR**
-- **International Journal of Sustainable Energy**
-- And as a patent in India and other relevant jurisdictions
+Prepared for submission to:
 
-See our [project report and presentation](...) for technical and academic details.
+* **IEEE ISC2 (Smart Cities)**
+* **CVPR**
+* **International Journal of Sustainable Energy**
+* Patent filing in India & other jurisdictions
+
+👉 See our *[project report and presentation](...)* for technical details.
+
+---
 
 ## 🤝 Contributing
 
-Pull requests, feature suggestions, and discussions are welcome! This project is the foundation for future smart city research.
+Contributions are welcome!
 
-- Fork the repo and submit a pull request
-- Report issues and improvements in the Issues tab
+* Fork the repo and submit a PR
+* Open issues for bugs, ideas, or enhancements
+
+---
 
 ## 📄 License
 
-This repository is open for research and educational use—see [LICENSE](LICENSE) for details.
+This repository is licensed for **research and educational use**.
+See [LICENSE](LICENSE) for details.
+
+---
 
 ## 👥 Authors
 
-- Ajay J (ajay260505)
-- Darunesh R
-- Jayanthmoulee C
+* Ajay J ([@ajay260505](https://github.com/ajay260505))
+* Darunesh R
+* Jayanthmoulee C
+
+---
 
 ## 🙏 Acknowledgements
 
-Special thanks to our mentors, institution, and the open-source community—especially contributors to **Ultralytics YOLO, MediaPipe, and OpenCV**.
+Thanks to our mentors, institution, and the open-source community—especially contributors to **Ultralytics YOLO, MediaPipe, and OpenCV**.
 
-***
+---
 
-**For questions, collaboration, or demo requests, please open an issue or contact the project maintainers.**
+✨ *For questions, collaboration, or demo requests, please open an issue or contact the maintainers.*
 
+---

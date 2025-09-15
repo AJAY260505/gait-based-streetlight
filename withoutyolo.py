@@ -8,13 +8,9 @@ import requests
 from collections import deque
 from dotenv import load_dotenv
 
-# Optionally import YOLO, but the detection block will be skipped for now (for max FPS)
-# from ultralytics import YOLO
 
-# If you want to occasionally simulate detection of vehicle/animal, set this flag
-ENABLE_YOLO = False  # Set to True to enable (but for publication/demo, set to False for stability)
+ENABLE_YOLO = False  
 
-# # yolo_model = YOLO("yolov8n.pt")  # Commented (unnecessary for gait-only demo)
 
 load_dotenv()
 API_KEY = os.getenv("OWM_API_KEY")

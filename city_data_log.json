@@ -1,0 +1,773 @@
+[
+    {
+        "timestamp": 1757740469.422802,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740469.7502108,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740470.0887632,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740470.4147868,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740470.8169122,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740471.140393,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740471.6209338,
+        "people": 8,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740472.023538,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740472.4587922,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740472.813623,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740473.1574006,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740473.5202825,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740473.8586366,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740474.1698003,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740474.505863,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740474.911935,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740475.2559977,
+        "people": 3,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740475.6071544,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740476.0530298,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740476.4194274,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740476.7943356,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740477.2124362,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740477.6034467,
+        "people": 6,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740477.974839,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740478.3731275,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740478.7669082,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740479.1741471,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740479.5241785,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740479.892981,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740480.263883,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740480.6747818,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740481.0960965,
+        "people": 6,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740481.5330591,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740481.9204004,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740482.3128188,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740482.6978378,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740483.0732381,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740484.3014107,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740484.657162,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740485.0449877,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740485.4328988,
+        "people": 4,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740485.827304,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740486.222071,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740486.6145937,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740487.0345163,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740487.419572,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740487.9013345,
+        "people": 6,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740488.4531758,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740488.8495789,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    },
+    {
+        "timestamp": 1757740489.466073,
+        "people": 5,
+        "gaits": [
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT",
+            "NO GAIT"
+        ],
+        "env": [
+            "day",
+            "drizzle"
+        ],
+        "temperature": 27.01
+    }
+]
